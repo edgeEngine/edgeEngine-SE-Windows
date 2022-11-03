@@ -23,3 +23,4 @@ Double Check
 
 You can check if edgeEngine is actually installed successfully by opening Task Manager, under Services and search for “EdgeService”.
 
+Please visit [Developer Console](https://developer.mimik.com/console/create_account) to create an account and get started with your projects
