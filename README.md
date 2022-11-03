@@ -13,5 +13,13 @@
 
 Download edgeEngine-SE-Windows release from [HERE](https://github.com/edgeEngine/edgeEngine-SE-Windows/releases)
 
-Please follow this [guide](https://developer.mimik.com/installation-guide/) on mimik developer portal to ensure successful installation.
+Run the .exe setup file that you have downloaded from the edgeEngine download page.
+
+Follow the on screen instructions to finish the installation.
+
+Once the installation is finished, edgeEngine will be running as a service in the system background.
+
+Double Check
+
+You can check if edgeEngine is actually installed successfully by opening Task Manager, under Services and search for “EdgeService”.
 
