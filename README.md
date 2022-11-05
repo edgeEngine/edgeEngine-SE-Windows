@@ -1,6 +1,6 @@
 # edgeEngine-SE-Windows
 
-# Before you start  
+## Before you start  
 
  [explore develoepr-doccumentation](developer.mimik.com)
  
@@ -8,7 +8,7 @@
  
 
 
-# Installation Guide
+## Installation Guide
 
 Download edgeEngine-SE-Windows release from [HERE](https://github.com/edgeEngine/edgeEngine-SE-Windows/releases)
 
