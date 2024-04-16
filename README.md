@@ -11,16 +11,16 @@
 
 ## Installation Guide
 
-Download edgeEngine-SE-Windows release from [HERE](https://github.com/edgeEngine/edgeEngine-SE-Windows/releases)
 
-Run the .exe setup file that you have downloaded from the edgeEngine download page.
+1. Download edgeEngine-SE-Windows release from [HERE](https://github.com/edgeEngine/edgeEngine-SE-Windows/releases)
+2. Create a new directory
+3. Move the release package to newly created directory 
+4. Open terminal and navigate to the newly created directory that now has the downloaded .tar file
+5. Unzip the package
+6. Run start script to start edgeEngine
+```
+start.bat
+```
+Expect a Windows system security popup when the first time you run edge at that directory. click "allow" to enable edge to use some network features without blocking by the the firewall.
 
-Follow the on screen instructions to finish the installation.
-
-Once the installation is finished, edgeEngine will be running as a service in the system background.
-
-Double Check
-
-You can check if edgeEngine is actually installed successfully by opening Task Manager, under Services and search for “EdgeService”.
-
-Please visit [Developer Console](https://developer.mimik.com/console/create_account) to create an account and get started with your projects
+7. Please visit [Developer Console](https://developer.mimik.com/console/create_account) to create an account and get started with your projects
