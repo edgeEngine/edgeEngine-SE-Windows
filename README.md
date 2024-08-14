@@ -1,5 +1,10 @@
 # edgeEngine-SE-Windows
 
+#### 🚨 **Important NOTE:** 🚨
+**This edgeEngine-SE-Windows repository has been archived and is no longer maintained.**  
+Please visit our new repository [mimOE-SE-Windows](https://github.com/mimik-mimOE/mimOE-SE-Windows) for the latest updates.
+
+---
 ## Before you start  
 
  
